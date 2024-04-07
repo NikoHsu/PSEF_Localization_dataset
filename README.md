@@ -1,5 +1,7 @@
 # Location-and-mapping-data-set-of-underground-parking-lot
 
+Two bag files, corresponding to the point cloud map data under **normal conditions** and **full parking spaces**.
+
 Because the file size of the data set is much larger than the file size limit of GitHub, the file is transferred to the cloud disk here, and the download address of URL is provided.
 
 Download link:
