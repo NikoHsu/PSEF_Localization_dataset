@@ -29,17 +29,17 @@ rotateDeg5: 1.0471975511965976
         
 #Relative to the ground coordinate system
 
-R0: [0, 1.0, 0, 
+        R0: [0, 1.0, 0, 
 
         0.0, 0, 1, 
         
         1.0, 0.0, 0.0]
         
-T0: [0,
+        T0: [0,
 
-     1.23,
+        1.23,
      
-     0.0]
+        0.0]
 
 
 #LiDAR  VLP-16 16channels 10Hz
