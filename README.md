@@ -48,7 +48,18 @@ rotateDeg5: 1.0471975511965976
 
 #camera 30Hz  size 640X480
 
+#Camera external parameter
+         lidar_to_imu:0,0,1,0.3,-1,0,0,1.5,-0,-1,-0,0,0,0,0,1;
 
+ 
+         camera-to-imu:
+         [0, 1.0, 0, 0,
+ 
+        0.0, 0, 1, 1.0,
+        
+        1.0, 0.0, 0.0,0.0]
+
+        
 **Download link**
 Because the file size of the data set is much larger than the file size limit of GitHub, the file is transferred to the cloud disk here, and the download address of URL is provided.
 
