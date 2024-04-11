@@ -3,7 +3,7 @@
 
 This is the dataset website for our paper xxx, Location and mapping data set of underground parking lot.
 
-Two bag files, corresponding to the point cloud map data under **normal conditions** and **full parking spaces**.
+Two bag files, corresponding to the senmatic map and the point cloud map data under **normal conditions** and **full parking spaces**.
 
 
 **Parameter setting**
