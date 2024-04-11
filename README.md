@@ -1,4 +1,4 @@
-# PSF_Localization: point senmatic map fusion localization in underground enviroment.
+# PSF_Localization: point senmatic map fusion localization dataset in underground enviroment.
 
 
 This is the dataset website for our paper xxx, Location and mapping data set of underground parking lot.
