@@ -1,7 +1,8 @@
-# PSF_Localization: Point cloud Senmatic map Fusion localization dataset in underground enviroment.
+# PSF_Localization: Point cloud and Senmatic map Fusion localization dataset in underground enviroment.
 
 
-This is the dataset website for our paper xxx, Location and mapping data set of underground parking lot.
+This is the dataset website for our paper PSF: Point Cloud and Semantic-Based ESKF Fusion Algorithm for Precise Underground Parking Localization
+, Location and mapping data set of underground parking lot.
 
 Two bag files, corresponding to the senmatic map and the point cloud map data under **normal conditions** and **full parking spaces**.
 
