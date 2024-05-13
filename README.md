@@ -1,7 +1,7 @@
 # PSEF_Localization: Point cloud and Senmatic map dataset in underground enviroment.
 
 
-This is the dataset website for our paper **PSEF: Point Cloud and Semantic-Based ESKF Fusion For Precise and Robust Localization in Underground Parking Environment
+This is the dataset website for our paper **PSEF: Point Cloud and Semantic ESKF Fusion System For Precise and Robust Localization in Underground Parking Environments
 **
 Location and mapping data set of underground parking lot.
 
