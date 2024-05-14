@@ -13,6 +13,19 @@ Two bag files, corresponding to the senmatic map and the point cloud map data un
 
 **Parameter setting**
 
+| Sensor Type | Parameter          | Value       |
+|-------------|--------------------|-------------|
+| LiDAR       | Number of Channels | 16          |
+|             | Measurement Range  | <100m       |
+|             | Horizontal Field of View | 360°       |
+|             | Vertical Field of View | 30°        |
+|             | Scanning Frequency | 10Hz        |
+| Camera      | Resolution         | 640 × 480   |
+|             | Frame Rate         | 30Hz        |
+| IMU         | Update Frequency   | 200Hz       |
+
+
+
 #Installation angles of six cameras
 
 rotateDeg0: 0
